@@ -140,7 +140,10 @@ body {
     background-position: center;
 }
 
-.t1,
+.t1{
+    background-size: auto 100%;
+    background-image: url(./image/rinko.png);
+},
 .t2{
     background-size: auto 100%;
     background-image: url(./image/ako.png);
@@ -158,10 +161,22 @@ body {
     background-image: url(./image/ykn.png);
 }
 
-.tt1,
-.tt2,
-.tt3,
-.tt4,
+.tt1{
+    background-size: auto 86%;
+    background-image: url(./image/AfterClicking.png);
+},
+.tt2{
+    background-size: auto 86%;
+    background-image: url(./image/AfterClicking.png);
+},
+.tt3{
+    background-size: auto 86%;
+    background-image: url(./image/AfterClicking.png);
+},
+.tt4{
+    background-size: auto 86%;
+    background-image: url(./image/AfterClicking.png);
+},
 .tt5 {
     background-size: auto 86%;
     background-image: url(./image/AfterClicking.png);
