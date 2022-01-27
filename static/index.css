@@ -140,10 +140,7 @@ body {
     background-position: center;
 }
 
-.t1{
-    background-size: auto 100%;
-    background-image: url(./image/rinko.png);
-},
+.t1,
 .t2{
     background-size: auto 100%;
     background-image: url(./image/ako.png);
