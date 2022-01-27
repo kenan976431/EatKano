@@ -140,43 +140,19 @@ body {
     background-position: center;
 }
 
-.t1{
-    background-size: auto 100%;
-    background-image: url(./image/rinko.png);
-},
-.t2{
-    background-size: auto 100%;
-    background-image: url(./image/ako.png);
-},
-.t3{
-    background-size: auto 100%;
-    background-image: url(./image/sayo.png);
-},
-.t4{
-    background-size: auto 100%;
-    background-image: url(./image/lisa.png);
-},
+.t1,
+.t2,
+.t3,
+.t4,
 .t5 {
     background-size: auto 100%;
     background-image: url(./image/ykn.png);
 }
 
-.tt1{
-    background-size: auto 86%;
-    background-image: url(./image/AfterClicking.png);
-},
-.tt2{
-    background-size: auto 86%;
-    background-image: url(./image/AfterClicking.png);
-},
-.tt3{
-    background-size: auto 86%;
-    background-image: url(./image/AfterClicking.png);
-},
-.tt4{
-    background-size: auto 86%;
-    background-image: url(./image/AfterClicking.png);
-},
+.tt1,
+.tt2,
+.tt3,
+.tt4,
 .tt5 {
     background-size: auto 86%;
     background-image: url(./image/AfterClicking.png);
